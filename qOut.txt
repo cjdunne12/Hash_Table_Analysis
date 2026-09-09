@@ -1,0 +1,10 @@
+Q1, 1100, RankName,529
+Q2, 1700, RankName,537
+Q3, 2400, RankName,259
+Q4, 2500, RankName,250
+Q5, 3000, RankName,190
+Q6, 1100, RankPlatform,520
+Q7, 1700, RankPlatform,596
+Q8, 2400, RankPlatform,270
+Q9, 2500, RankPlatform,298
+Q10, 3000, RankPlatform,209

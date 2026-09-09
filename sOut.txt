@@ -1,0 +1,10 @@
+S1, 1100, RankName,377
+S2, 1700, RankName,287
+S3, 2400, RankName,177
+S4, 2500, RankName,169
+S5, 3000, RankName,138
+S6, 1100, RankPlatform,408
+S7, 1700, RankPlatform,278
+S8, 2400, RankPlatform,200
+S9, 2500, RankPlatform,200
+S10, 3000, RankPlatform,127
